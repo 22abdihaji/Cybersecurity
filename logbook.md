@@ -1,7 +1,13 @@
 # Logbook
 
-| Date       | Used hours | Subject(s)           | Outcome(s)       |
-|------------|------------|----------------------|------------------|
-| 28.10.2025 |      2     |   First Lecture      |   Finished       |
-| 29.10.2025 |      1     |   Module 1 Cisco     |   Finished       |
-| 31.10.2025 |      1     |   Module 2 Cisco     |   Finished       |  
+| Date       | Used hours | Subject(s)                                                      | Outcome(s) |
+|------------|------------|------------------------------------------------------------------|------------|
+| 28.10.2025 | 2          | First Lecture                                                   | Finished   |
+| 29.10.2025 | 1          | Module 1 Cisco                                                  | Finished   |
+| 31.10.2025 | 1          | Module 2 Cisco                                                  | Finished   |
+| 06.11.2025 | 1          | Module 3 Cisco                                                  | Finished   |
+| 07.11.2025 | 2          | Module 4 Cisco                                                  | Finished   |
+| 07.11.2025 | 1          | Module 5 Cisco                                                  | Finished   |
+| 07.11.2025 | 2          | Final Exam (Introduction to Cybersecurity)                      | Finished   |
+| 13.11.2025 | 1          | PortSwigger: SQL injection vulnerability in WHERE clause        | Finished   |
+| 13.11.2025 | 1          | PortSwigger: SQL injection vulnerability allowing login bypass  | Finished   |
